@@ -1,2 +1,0 @@
-config SHIELD_MAYPAD5X4
-    def_bool $(shields_list_contains,maypad5x4)

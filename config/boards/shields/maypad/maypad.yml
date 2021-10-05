@@ -1,6 +1,6 @@
 file_format: "1"
-id: maypad5x4
-name: maypad5x4
+id: maypad
+name: maypad
 type: shield
 url: https://github.com/wiredboy/maypad5x4-nanov2-zmk
 requires: [pro_micro]
