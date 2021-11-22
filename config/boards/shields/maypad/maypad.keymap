@@ -13,7 +13,7 @@
 // |  SHIFT  |    Z    |    X    |    C    |    V    |    B    | CTRL+A  | CTRL+C  |  |  CTRL+V |  CTRL+X |    N    |    M    |    ,    |    .    |    /    |  R CTRL |
 //                               |   GUI   |   DEL   | RETURN  |  SPACE  | ESCAPE  |  |  RETURN |  SPACE  |   TAB   |   BSPC  |  R ALT  |
             bindings = <
-    &kp ESC     &kp Q   &kp W       &kp E
+    &kp ESC     &kp Q   &kp R       &kp E
     &kp N1      &kp N2  &kp N3      &kp SLASH
     &kp N4      &kp N5  &kp N6      &kp PLUS
     &kp N7      &kp N8  &kp N9      &kp EQUAL
