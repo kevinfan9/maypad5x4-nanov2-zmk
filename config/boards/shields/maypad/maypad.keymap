@@ -17,7 +17,7 @@
     &kp NUMBER_7      &kp NUMBER_8  &kp NUMBER_9      &kp KP_PLUS
     &kp NUMBER_4      &kp NUMBER_5  &kp NUMBER_6      &kp KP_PLUS
     &kp NUMBER_1      &kp NUMBER_2  &kp NUMBER_3      &kp RETURN
-    &kp NUMBER_0    &kp NUMBER_0  &kp DOT    &kp RETURN
+    &kp NUMBER_0    &kp NUMBER_0  &kp KP_DOT    &kp RETURN
             >;
 
             //sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
