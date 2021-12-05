@@ -13,11 +13,11 @@
 // |  SHIFT  |    Z    |    X    |    C    |    V    |    B    | CTRL+A  | CTRL+C  |  |  CTRL+V |  CTRL+X |    N    |    M    |    ,    |    .    |    /    |  R CTRL |
 //                               |   GUI   |   DEL   | RETURN  |  SPACE  | ESCAPE  |  |  RETURN |  SPACE  |   TAB   |   BSPC  |  R ALT  |
             bindings = <
-    &kp F1     &kp F2   &kp F3       &kp F4
-    &kp F5      &kp F6  &kp F7      &kp F8
-    &kp F9      &kp F10  &kp F11      &kp F12
-    &kp HOME      &kp PG_UP  &kp C_VOL_UP      &kp C_MUTE
-    &kp END    &kp PG_DN  &kp C_VOL_DN    &kp C_PP
+    &kp BSPC     &kp KP_DIVIDE   &kp KP_MULTIPLY       &kp KP_MINUS
+    &kp NUMBER_7      &kp NUMBER_8  &kp NUMBER_9      &kp KP_PLUS
+    &kp NUMBER_4      &kp NUMBER_5  &kp NUMBER_6      &kp KP_PLUS
+    &kp NUMBER_1      &kp NUMBER_2  &kp NUMBER_3      &kp RETURN
+    &kp NUMBER_0    &kp NUMBER_0  &kp DOT    &kp RETURN
             >;
 
             //sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
